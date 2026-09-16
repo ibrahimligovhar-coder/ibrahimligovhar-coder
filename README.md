@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Govhar 👋
 
-<!--
-**ibrahimligovhar-coder/ibrahimligovhar-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Developer and QA Engineer interested in building reliable software, web applications, and testing solutions.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in software development and QA
+- 🌱 Currently building practical projects and expanding my technical skills
+- 🔧 Interested in backend development, APIs, databases, and software testing
+- 🎮 Interested in game development and game QA
+- 🌍 Open to remote opportunities and international collaboration
+
+### Technical Interests
+
+- Programming
+- Backend Development
+- REST APIs
+- SQL & Databases
+- Software Testing
+- API Testing
+- Test Automation
+- Web Development
+
+### What I'm Working On
+
+I'm currently building a portfolio of practical software development and QA projects.
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/govhar-ibrahimli-987128206/)
